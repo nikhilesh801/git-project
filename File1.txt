@@ -4,3 +4,7 @@ Welcome to Git......
 change for feature - login
 
 difference to check 
+
+change to  fix bug1
+
+change to bug2
